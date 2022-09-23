@@ -1,5 +1,10 @@
 # vue-card-matching
 
+## Live Demo
+
+- Check the live project :  [https://wondrous-seahorse-c6d487.netlify.app/](https://wondrous-seahorse-c6d487.netlify.app/)
+
+
 ## Project setup
 ```
 npm install
