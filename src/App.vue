@@ -208,6 +208,7 @@ h1 {
   padding-top: 60px;
   padding-bottom: 200px;
   color: #fff;
+  overflow: hidden;
 }
 
 .description {
@@ -255,9 +256,9 @@ h1 {
   justify-content: center;
   /* margin:auto;
   max-width: 640px; */
-  grid-template-columns: repeat(4,120px);
+  grid-template-columns: repeat(4,minmax(60px,120px));
   grid-column-gap:24px;
-  grid-template-rows:repeat(4,120px);
+  grid-template-rows:repeat(4,minmax(60px,120px));
   grid-row-gap:24px;  
 }
 
